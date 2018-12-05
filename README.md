@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## npm i下载配置文件
-
+## npm i
+Since no configuration file was uploaded, please download it by yourself.
 ## Available Scripts
 
 In the project directory, you can run:
