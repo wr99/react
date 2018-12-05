@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## npm i下载配置文件
 
 ## Available Scripts
 
